@@ -9,7 +9,7 @@
     'app':                        'app', // 'dist',
 
     '@angular':                   'node_modules/@angular',
-    'angular2-google-maps':       'https://npmcdn.com/angular2-google-maps@0.12.0',
+    'angular2-google-maps':       'https://unpkg.com/angular2-google-maps@0.12.0',
     'angular2-in-memory-web-api': 'node_modules/angular2-in-memory-web-api',
     'rxjs':                       'node_modules/rxjs'
   };
